@@ -1,0 +1,1 @@
+python /Users/abdullahamamun/Downloads/AIPND-revision-master/intropyproject-classify-pet-images/check_images.py --dir /Users/abdullahamamun/Downloads/AIPND-revision-master/intropyproject-classify-pet-images/pet_images/ --arch vgg --dogfile /Users/abdullahamamun/Downloads/AIPND-revision-master/intropyproject-classify-pet-images/dognames.txt
